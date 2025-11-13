@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prime Office Space - Dynamic Hero</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Configure Tailwind for custom font (Inter) -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            /* Ensured no hidden overflow from removed animations */
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-white">
+
+<!--
+    DYNAMIC HERO SECTION
+    Logo integrated - now using placeholder until actual logo file is uploaded
+-->
+<section class="relative min-h-[85vh] flex items-center justify-center overflow-hidden">
+    
+    <!-- Background Layer: Placeholder Image with Darker Overlay -->
+    <div class="absolute inset-0 opacity-20"
+        style="
+            background-image: url('https://placehold.co/1920x1080/0A3D62/FFFFFF/png?text=Modern+Office+Spaces');
+            background-size: cover;
+            background-position: center;
+        "
+    ></div>
+    
+    <!-- Dynamic Content Container -->
+    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center z-10">
+        
+        <!-- Logo Area: Using text logo until image is uploaded -->
+        <div class="absolute top-0 left-1/2 -translate-x-1/2 lg:top-8 lg:left-8 lg:transform-none">
+            <!-- LOGO FIX: Replace with actual logo once uploaded to GitHub -->
+            <!-- Option 1: Text Logo (current) -->
+            <div class="bg-blue-600 text-white px-6 py-2 rounded-lg font-bold text-xl">
+                BHARAT 1 SPACES
+            </div>
+            
+            <!-- Option 2: Image Logo (uncomment and use after uploading logo.jpg/logo.png to repository) -->
+            <!-- <img 
+                src="logo.jpg" 
+                alt="BHARAT 1 SPACES Logo" 
+                class="h-10 sm:h-12 w-auto"
+                onerror="this.onerror=null; this.src='https://placehold.co/200x50/0A3D62/FFFFFF/png?text=BHARAT+1+SPACES';"
+            > -->
+        </div>
+        
+        <!-- Main Heading & Tagline (Reordered for mobile/desktop responsiveness) -->
+        <div class="grid lg:grid-cols-12 gap-10 lg:gap-16 items-center pt-20 lg:pt-24">
+            
+            <!-- Headline Column -->
+            <div class="lg:col-span-12 text-center">
+                <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight tracking-tight mb-6">
+                    Launch Your Business <span class="text-yellow-400">Today.</span>
+                </h1>
+                
+                <p class="text-lg sm:text-xl lg:text-2xl text-gray-300 mb-10 max-w-4xl mx-auto">
+                    Secure your fully furnished, prime business address in Navi Mumbai. Bharat 1 Spaces start <span class="text-yellow-400 font-semibold">from just ₹4999/Month.</span>
+                </p>
+                
+                <!-- CTA Buttons -->
+                <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+                    <a href="#availability" 
+                        class="bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-4 px-8 rounded-lg text-lg transition-all duration-300 shadow-lg hover:shadow-2xl">
+                        Check Availability & Get Your Custom Quote
+                    </a>
+                    <a href="#brochure" 
+                        class="bg-transparent border-2 border-white hover:bg-white hover:text-gray-900 text-white font-bold py-4 px-8 rounded-lg text-lg transition-all duration-300">
+                        Download Brochure
+                    </a>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+    
+</section>
+
+<!-- FEATURES SECTION -->
+<section id="features" class="py-20 bg-gray-800">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-3xl sm:text-4xl font-bold text-center mb-12">Why Choose Bharat 1 Spaces?</h2>
+        
+        <div class="grid md:grid-cols-3 gap-8">
+            <!-- Feature 1 -->
+            <div class="bg-gray-700 p-6 rounded-lg">
+                <div class="text-yellow-400 text-4xl mb-4">📍</div>
+                <h3 class="text-xl font-bold mb-2">Prime Location</h3>
+                <p class="text-gray-300">Strategically located between JNPA and Navi Mumbai International Airport for excellent connectivity.</p>
+            </div>
+            
+            <!-- Feature 2 -->
+            <div class="bg-gray-700 p-6 rounded-lg">
+                <div class="text-yellow-400 text-4xl mb-4">💼</div>
+                <h3 class="text-xl font-bold mb-2">Fully Furnished</h3>
+                <p class="text-gray-300">Move-in ready office spaces with modern amenities and furniture included.</p>
+            </div>
+            
+            <!-- Feature 3 -->
+            <div class="bg-gray-700 p-6 rounded-lg">
+                <div class="text-yellow-400 text-4xl mb-4">💰</div>
+                <h3 class="text-xl font-bold mb-2">Affordable Pricing</h3>
+                <p class="text-gray-300">Flexible plans starting from just ₹4999/month to suit every business size.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- AVAILABILITY FORM SECTION -->
+<section id="availability" class="py-20 bg-gray-900">
+    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 class="text-3xl sm:text-4xl font-bold text-center mb-8">Check Availability</h2>
+        <p class="text-center text-gray-300 mb-8">Fill in your details and we'll send you a custom quote</p>
+        
+        <form class="bg-gray-800 p-8 rounded-lg">
+            <div class="mb-6">
+                <label class="block text-sm font-medium mb-2" for="name">Full Name</label>
+                <input type="text" id="name" class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg focus:outline-none focus:border-yellow-400" required>
+            </div>
+            
+            <div class="mb-6">
+                <label class="block text-sm font-medium mb-2" for="email">Email Address</label>
+                <input type="email" id="email" class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg focus:outline-none focus:border-yellow-400" required>
+            </div>
+            
+            <div class="mb-6">
+                <label class="block text-sm font-medium mb-2" for="phone">Phone Number</label>
+                <input type="tel" id="phone" class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg focus:outline-none focus:border-yellow-400" required>
+            </div>
+            
+            <div class="mb-6">
+                <label class="block text-sm font-medium mb-2" for="message">Message (Optional)</label>
+                <textarea id="message" rows="4" class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg focus:outline-none focus:border-yellow-400"></textarea>
+            </div>
+            
+            <button type="submit" class="w-full bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-4 px-8 rounded-lg text-lg transition-all duration-300">
+                Submit Inquiry
+            </button>
+        </form>
+    </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="bg-gray-800 py-8">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <p class="text-gray-400">&copy; 2025 Bharat 1 Spaces. All rights reserved.</p>
+        <p class="text-gray-400 mt-2">Prime Office Spaces in Navi Mumbai</p>
+    </div>
+</footer>
+
+</body>
+</html>
