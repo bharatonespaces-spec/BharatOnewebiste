@@ -1,159 +1,259 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prime Office Space - Dynamic Hero</title>
-    <!-- Load Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Configure Tailwind for custom font (Inter) -->
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
-        body {
-            font-family: 'Inter', sans-serif;
-            /* Ensured no hidden overflow from removed animations */
-        }
-    </style>
-</head>
-<body class="bg-gray-900 text-white">
+    <meta name="description"
+        content="BharatOne Spaces - Premium office spaces in Mumbai and Pune. Redefining modern workspaces with world-class amenities for startups and enterprises.">
+    <title>BharatOne Spaces | Premium Office & Coworking Spaces</title>
 
-<!--
-    DYNAMIC HERO SECTION
-    Logo integrated - now using placeholder until actual logo file is uploaded
--->
-<section class="relative min-h-[85vh] flex items-center justify-center overflow-hidden">
-    
-    <!-- Background Layer: Placeholder Image with Darker Overlay -->
-    <div class="absolute inset-0 opacity-20"
-        style="
-            background-image: url('https://placehold.co/1920x1080/0A3D62/FFFFFF/png?text=Modern+Office+Spaces');
-            background-size: cover;
-            background-position: center;
-        "
-    ></div>
-    
-    <!-- Dynamic Content Container -->
-    <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center z-10">
-        
-        <!-- Logo Area: Using text logo until image is uploaded -->
-        <div class="absolute top-0 left-1/2 -translate-x-1/2 lg:top-8 lg:left-8 lg:transform-none">
-            <!-- LOGO FIX: Replace with actual logo once uploaded to GitHub -->
-            <!-- Option 1: Text Logo (current) -->
-            <div class="bg-blue-600 text-white px-6 py-2 rounded-lg font-bold text-xl">
-                BHARAT 1 SPACES
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" type="image/png" href="images/logo.png">
+</head>
+
+<body>
+    <!-- Header & Navigation -->
+    <header class="header">
+        <nav class="nav container">
+            <a href="index.html">
+                <img src="images/logo.png" alt="BharatOne Spaces Logo" class="nav-logo">
+            </a>
+
+            <button class="nav-toggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link active">Home</a></li>
+                <li><a href="box-office-jasai.html" class="nav-link">Box Office Jasai</a></li>
+                <li><a href="pune-camp.html" class="nav-link">Pune Camp</a></li>
+                <li><a href="for-brokers.html" class="nav-link">For Brokers</a></li>
+                <li><a href="blog.html" class="nav-link">Blog</a></li>
+                <li><a href="gallery.html" class="nav-link">Gallery</a></li>
+                <li><a href="about.html" class="nav-link">About</a></li>
+                <li><a href="contact.html" class="nav-link">Contact</a></li>
+                <li><a href="#enquiry" class="btn btn-accent btn-sm">Enquire Now</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Our Properties Section -->
+    <section id="properties" class="section-lg" style="background: var(--color-off-white); padding-top: 120px;">
+        <div class="container">
+            <div class="text-center mb-8">
+                <h2 class="fade-in-up">Our <span class="text-accent">Prime Locations</span></h2>
+                <p class="fade-in-up">Discover the perfect workspace tailored to your business needs</p>
             </div>
-            
-            <!-- Option 2: Image Logo (uncomment and use after uploading logo.jpg/logo.png to repository) -->
-            <!-- <img 
-                src="logo.jpg" 
-                alt="BHARAT 1 SPACES Logo" 
-                class="h-10 sm:h-12 w-auto"
-                onerror="this.onerror=null; this.src='https://placehold.co/200x50/0A3D62/FFFFFF/png?text=BHARAT+1+SPACES';"
-            > -->
-        </div>
-        
-        <!-- Main Heading & Tagline (Reordered for mobile/desktop responsiveness) -->
-        <div class="grid lg:grid-cols-12 gap-10 lg:gap-16 items-center pt-20 lg:pt-24">
-            
-            <!-- Headline Column -->
-            <div class="lg:col-span-12 text-center">
-                <h1 class="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight tracking-tight mb-6">
-                    Launch Your Business <span class="text-yellow-400">Today.</span>
-                </h1>
+
+            <div class="grid grid-2">
+                <!-- Pune Camp -->
+                <div class="card fade-in-up" style="overflow: hidden;">
+                    <!-- Auto-playing CSS Slider (Right to Left) -->
+                    <div class="slider-container-rtl" style="position: relative; width: 100%; height: 250px; overflow: hidden;">
+                        <div class="slider-track-rtl">
+                            <img src="images/pune-slider-1.png" alt="Pune Camp View 1" class="slider-img">
+                            <img src="images/pune-slider-2.png" alt="Pune Camp View 2" class="slider-img">
+                            <img src="images/pune-slider-3.jpg" alt="Pune Camp View 3" class="slider-img">
+                            <!-- Duplicate first image for seamless loop -->
+                            <img src="images/pune-slider-1.png" alt="Pune Camp View 1" class="slider-img">
+                        </div>
+                    </div>
                 
-                <p class="text-lg sm:text-xl lg:text-2xl text-gray-300 mb-10 max-w-4xl mx-auto">
-                    Secure your fully furnished, prime business address in Navi Mumbai. Bharat 1 Spaces start <span class="text-yellow-400 font-semibold">from just ₹4999/Month.</span>
-                </p>
-                
-                <!-- CTA Buttons -->
-                <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                    <a href="#availability" 
-                        class="bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-4 px-8 rounded-lg text-lg transition-all duration-300 shadow-lg hover:shadow-2xl">
-                        Check Availability & Get Your Custom Quote
-                    </a>
-                    <a href="#brochure" 
-                        class="bg-transparent border-2 border-white hover:bg-white hover:text-gray-900 text-white font-bold py-4 px-8 rounded-lg text-lg transition-all duration-300">
-                        Download Brochure
-                    </a>
+                    <div class="card-content">
+                        <h3>Pune Camp Business Centre</h3>
+                        <p>Premium business center in the heart of Pune Camp offering world-class infrastructure and professional services.</p>
+                        <ul style="list-style: none; padding: 0; margin-bottom: var(--space-6);">
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ Central Business District</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ Premium Infrastructure</li>
+                            <li style="padding: var(--space-2) 0;">✓ Excellent Connectivity</li>
+                        </ul>
+                        <a href="pune-camp.html" class="btn btn-primary" style="width: 100%;">View Details</a>
+                    </div>
+                </div>
+
+                <!-- Box Office Jasai -->
+                <div class="card fade-in-up" style="overflow: hidden;">
+                    <!-- Auto-playing CSS Slider -->
+                    <div class="slider-container" style="position: relative; width: 100%; height: 250px; overflow: hidden;">
+                        <div class="slider-track">
+                            <img src="images/jasai-slider-1.jpg" alt="Box Office Jasai View 1" class="slider-img">
+                            <img src="images/jasai-slider-2.jpg" alt="Box Office Jasai View 2" class="slider-img">
+                            <img src="images/jasai-slider-3.jpg" alt="Box Office Jasai View 3" class="slider-img">
+                            <!-- Duplicate first image for seamless loop -->
+                            <img src="images/jasai-slider-1.jpg" alt="Box Office Jasai View 1" class="slider-img">
+                        </div>
+                    </div>
+                    
+                    <div class="card-content">
+                        <h3>Box Office Jasai</h3>
+                        <p>Strategic workspace located in Jasai, perfect for logistics, shipping, and supply chain businesses near JNPT.</p>
+                        <p style="font-size: 0.9rem; font-weight: 500; color: var(--color-accent); margin-bottom: var(--space-4);">
+                            📍 The Navi Mumbai International Airport Atal Setu Proximity Connecting to Mumbai In 20 mins, Reaching Navi Mumbai in 10 minutes. The railway station is in 900 metres.
+                        </p>
+                        <ul style="list-style: none; padding: 0; margin-bottom: var(--space-6);">
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ Near JNPT Port</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ High-Speed Internet</li>
+                            <li style="padding: var(--space-2) 0;">✓ Business Support Services</li>
+                        </ul>
+                        <a href="box-office-jasai.html" class="btn btn-primary" style="width: 100%;">View Details</a>
+                    </div>
                 </div>
             </div>
-            
         </div>
-    </div>
-    
-</section>
+    </section>
 
-<!-- FEATURES SECTION -->
-<section id="features" class="py-20 bg-gray-800">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-3xl sm:text-4xl font-bold text-center mb-12">Why Choose Bharat 1 Spaces?</h2>
-        
-        <div class="grid md:grid-cols-3 gap-8">
-            <!-- Feature 1 -->
-            <div class="bg-gray-700 p-6 rounded-lg">
-                <div class="text-yellow-400 text-4xl mb-4">📍</div>
-                <h3 class="text-xl font-bold mb-2">Prime Location</h3>
-                <p class="text-gray-300">Strategically located between JNPA and Navi Mumbai International Airport for excellent connectivity.</p>
+    <!-- Why Choose Us -->
+    <section class="section" style="background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%); color: var(--color-white);">
+        <div class="container">
+            <div class="text-center mb-8">
+                <h2 class="fade-in-up" style="color: var(--color-white);">Why Choose <span class="text-accent">BharatOne Spaces</span></h2>
+                <p class="fade-in-up" style="color: rgba(255, 255, 255, 0.9);">More than just an office—a growth engine for your business</p>
             </div>
-            
-            <!-- Feature 2 -->
-            <div class="bg-gray-700 p-6 rounded-lg">
-                <div class="text-yellow-400 text-4xl mb-4">💼</div>
-                <h3 class="text-xl font-bold mb-2">Fully Furnished</h3>
-                <p class="text-gray-300">Move-in ready office spaces with modern amenities and furniture included.</p>
-            </div>
-            
-            <!-- Feature 3 -->
-            <div class="bg-gray-700 p-6 rounded-lg">
-                <div class="text-yellow-400 text-4xl mb-4">💰</div>
-                <h3 class="text-xl font-bold mb-2">Affordable Pricing</h3>
-                <p class="text-gray-300">Flexible plans starting from just ₹4999/month to suit every business size.</p>
+
+            <div class="grid grid-2" style="gap: var(--space-8);">
+                <div class="fade-in-up">
+                    <h4 style="color: var(--color-white); display: flex; align-items: center; gap: var(--space-3);">
+                        <span style="color: var(--color-accent); font-size: 2rem;">✓</span>
+                        Move-in Ready Offices
+                    </h4>
+                    <p style="color: rgba(255, 255, 255, 0.9);">Fully furnished spaces with all amenities. Just bring your laptop and start working.</p>
+                </div>
+
+                <div class="fade-in-up">
+                    <h4 style="color: var(--color-white); display: flex; align-items: center; gap: var(--space-3);">
+                        <span style="color: var(--color-accent); font-size: 2rem;">✓</span>
+                        Prime Locations
+                    </h4>
+                    <p style="color: rgba(255, 255, 255, 0.9);">Strategically located offices with excellent connectivity and infrastructure.</p>
+                </div>
+
+                <div class="fade-in-up">
+                    <h4 style="color: var(--color-white); display: flex; align-items: center; gap: var(--space-3);">
+                        <span style="color: var(--color-accent); font-size: 2rem;">✓</span>
+                        Affordable Pricing
+                    </h4>
+                    <p style="color: rgba(255, 255, 255, 0.9);">Premium quality at prices that won't break your budget. Flexible lease options.</p>
+                </div>
+
+                <div class="fade-in-up">
+                    <h4 style="color: var(--color-white); display: flex; align-items: center; gap: var(--space-3);">
+                        <span style="color: var(--color-accent); font-size: 2rem;">✓</span>
+                        Dedicated Support
+                    </h4>
+                    <p style="color: rgba(255, 255, 255, 0.9);">Our team is always available to assist you with any requirements or concerns.</p>
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<!-- AVAILABILITY FORM SECTION -->
-<section id="availability" class="py-20 bg-gray-900">
-    <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 class="text-3xl sm:text-4xl font-bold text-center mb-8">Check Availability</h2>
-        <p class="text-center text-gray-300 mb-8">Fill in your details and we'll send you a custom quote</p>
-        
-        <form class="bg-gray-800 p-8 rounded-lg">
-            <div class="mb-6">
-                <label class="block text-sm font-medium mb-2" for="name">Full Name</label>
-                <input type="text" id="name" class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg focus:outline-none focus:border-yellow-400" required>
+    <!-- Enquiry Form -->
+    <section id="enquiry" class="section-lg">
+        <div class="container">
+            <div class="text-center mb-8">
+                <h2 class="fade-in-up">Schedule a <span class="text-accent">Site Visit</span></h2>
+                <p class="fade-in-up">Experience our premium facilities firsthand</p>
             </div>
-            
-            <div class="mb-6">
-                <label class="block text-sm font-medium mb-2" for="email">Email Address</label>
-                <input type="email" id="email" class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg focus:outline-none focus:border-yellow-400" required>
-            </div>
-            
-            <div class="mb-6">
-                <label class="block text-sm font-medium mb-2" for="phone">Phone Number</label>
-                <input type="tel" id="phone" class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg focus:outline-none focus:border-yellow-400" required>
-            </div>
-            
-            <div class="mb-6">
-                <label class="block text-sm font-medium mb-2" for="message">Message (Optional)</label>
-                <textarea id="message" rows="4" class="w-full px-4 py-3 bg-gray-700 border border-gray-600 rounded-lg focus:outline-none focus:border-yellow-400"></textarea>
-            </div>
-            
-            <button type="submit" class="w-full bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-bold py-4 px-8 rounded-lg text-lg transition-all duration-300">
-                Submit Inquiry
-            </button>
-        </form>
-    </div>
-</section>
 
-<!-- FOOTER -->
-<footer class="bg-gray-800 py-8">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <p class="text-gray-400">&copy; 2025 Bharat 1 Spaces. All rights reserved.</p>
-        <p class="text-gray-400 mt-2">Prime Office Spaces in Navi Mumbai</p>
-    </div>
-</footer>
+            <div style="max-width: 600px; margin: 0 auto; background: var(--color-white); padding: var(--space-8); border-radius: var(--radius-xl); box-shadow: var(--shadow-2xl);">
+                <form id="property-enquiry-form">
+                    <input type="hidden" name="property" value="General Homepage Enquiry">
 
+                    <div class="form-group">
+                        <label for="name" class="form-label">Full Name *</label>
+                        <input type="text" id="name" name="name" class="form-input" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="phone" class="form-label">Phone Number *</label>
+                        <input type="tel" id="phone" name="phone" class="form-input" required maxlength="10" pattern="[0-9]{10}">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="email" class="form-label">Email Address</label>
+                        <input type="email" id="email" name="email" class="form-input">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="company" class="form-label">Company Name</label>
+                        <input type="text" id="company" name="company" class="form-input">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="location" class="form-label">Preferred Location *</label>
+                        <select id="location" name="location" class="form-select" required>
+                            <option value="">Select location</option>
+                            <option value="Pune Camp">Pune Camp Business Centre</option>
+                            <option value="Box Office Jasai">Box Office Jasai</option>
+                            <option value="Not Sure">Not Sure / Other</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="team_size" class="form-label">Team Size *</label>
+                        <select id="team_size" name="team_size" class="form-select" required>
+                            <option value="">Select team size</option>
+                            <option value="1-5 people">1-5 people</option>
+                            <option value="6-10 people">6-10 people</option>
+                            <option value="11-20 people">11-20 people</option>
+                            <option value="20+ people">20+ people</option>
+                        </select>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary btn-lg" style="width: 100%;">Submit Enquiry via WhatsApp</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <img src="images/logo.png" alt="BharatOne Spaces" style="height: 60px; margin-bottom: var(--space-4);">
+                    <p>Premium office spaces in Jasai and Pune for startups, freelancers, and growing businesses.</p>
+                </div>
+
+                <div class="footer-section">
+                    <h3>Quick Links</h3>
+                    <a href="index.html">Home</a>
+                    <a href="about.html">About Us</a>
+                    <a href="for-brokers.html">For Brokers</a>
+                    <a href="blog.html">Blog</a>
+                    <a href="contact.html">Contact</a>
+                </div>
+
+                <div class="footer-section">
+                    <h3>Properties</h3>
+                    <a href="box-office-jasai.html">Box Office Jasai</a>
+                    <a href="pune-camp.html">Pune Camp Business Centre</a>
+                    <a href="gallery.html">Gallery</a>
+                </div>
+
+                <div class="footer-section">
+                    <h3>Contact Us</h3>
+                    <p>📞 <a href="tel:+918898881222">+91 8898881222</a></p>
+                    <p>📱 <a href="https://wa.me/918899661111">+91 8899661111</a></p>
+                    <p>✉️ <a href="mailto:bharatonespaces@gmail.com">bharatonespaces@gmail.com</a></p>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>&copy; 2025 BharatOne Spaces. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating WhatsApp Button -->
+    <a href="https://wa.me/918899661111?text=Hi%2C%20I%27d%20like%20to%20know%20more%20about%20BharatOne%20Spaces."
+        class="whatsapp-float pulse" target="_blank" aria-label="Chat on WhatsApp">
+        💬
+    </a>
+
+    <script src="js/main.js"></script>
 </body>
+
 </html>

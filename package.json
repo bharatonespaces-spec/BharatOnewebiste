@@ -1,0 +1,13 @@
+{
+  "name": "bharatone_spaces_website",
+  "version": "1.0.0",
+  "description": "A modern, premium marketing website for BharatOne Spaces showcasing office properties in Jasai and Pune.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
