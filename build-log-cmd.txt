@@ -1,0 +1,56 @@
+
+> bharatone_spaces_website@1.0.0 build
+> vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+<script src="js/main.js"> in "/index.html" can't be bundled without type="module" attribute
+<script src="js/main.js"> in "/about.html" can't be bundled without type="module" attribute
+<script src="js/main.js"> in "/blog.html" can't be bundled without type="module" attribute
+<script src="js/main.js"> in "/contact.html" can't be bundled without type="module" attribute
+<script src="js/main.js"> in "/box-office-jasai.html" can't be bundled without type="module" attribute
+<script src="js/main.js"> in "/gallery.html" can't be bundled without type="module" attribute
+<script src="js/main.js"> in "/for-brokers.html" can't be bundled without type="module" attribute
+<script src="js/main.js"> in "/pune-camp.html" can't be bundled without type="module" attribute
+transforming...
+[32m✓[39m 12 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/[22m[32mcontact.html                                 [39m[1m[2m   13.34 kB[22m[1m[22m[2m │ gzip:   2.81 kB[22m
+[2mdist/[22m[32mabout.html                                   [39m[1m[2m   13.48 kB[22m[1m[22m[2m │ gzip:   3.03 kB[22m
+[2mdist/[22m[32mindex.html                                   [39m[1m[2m   15.39 kB[22m[1m[22m[2m │ gzip:   3.52 kB[22m
+[2mdist/[22m[32mpune-camp.html                               [39m[1m[2m   18.84 kB[22m[1m[22m[2m │ gzip:   3.57 kB[22m
+[2mdist/[22m[32mgallery.html                                 [39m[1m[2m   19.53 kB[22m[1m[22m[2m │ gzip:   3.03 kB[22m
+[2mdist/[22m[32mfor-brokers.html                             [39m[1m[2m   20.58 kB[22m[1m[22m[2m │ gzip:   3.73 kB[22m
+[2mdist/[22m[32mbox-office-jasai.html                        [39m[1m[2m   36.71 kB[22m[1m[22m[2m │ gzip:   7.08 kB[22m
+[2mdist/[22m[32mblog.html                                    [39m[1m[2m   60.89 kB[22m[1m[22m[2m │ gzip:   8.04 kB[22m
+[2mdist/[22m[32massets/logo-CJMLwZ8j.png                     [39m[1m[2m  111.13 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-7seater-view2-D6i9VJ_q.jpg      [39m[1m[2m  119.51 kB[22m[1m[22m
+[2mdist/[22m[32massets/pune-15seater-view3-B0eAtIJn.jpg      [39m[1m[2m  119.66 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-7seater-view3-CGVQnX0X.jpg      [39m[1m[2m  124.80 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-7seater-view1-BfmJV6hB.jpg      [39m[1m[2m  125.23 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-3seater-view1-DQ0RVp4n.jpg      [39m[1m[2m  128.44 kB[22m[1m[22m
+[2mdist/[22m[32massets/pune-15seater-view1-4MrUsHTG.jpg      [39m[1m[2m  128.74 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-3seater-view2-7K0Dvr5c.jpg      [39m[1m[2m  132.99 kB[22m[1m[22m
+[2mdist/[22m[32massets/pune-15seater-view2-W05t8zVJ.jpg      [39m[1m[2m  134.95 kB[22m[1m[22m
+[2mdist/[22m[32massets/pune-15seater-view4-Hw2hl1oQ.jpg      [39m[1m[2m  141.62 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-3seater-alt-view5-2wDr1hy_.jpg  [39m[1m[2m  143.90 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-3seater-view3-BgZqQzRZ.jpg      [39m[1m[2m  180.92 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-3seater-view4-BgtTjO6h.jpg      [39m[1m[2m  183.45 kB[22m[1m[22m
+[2mdist/[22m[32massets/pune-3seater-view1-CtdMBpSN.jpg       [39m[1m[2m  193.17 kB[22m[1m[22m
+[2mdist/[22m[32massets/pune-3seater-view2-4G6qJxOX.jpg       [39m[1m[2m  196.67 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-shops-exterior-CU1sNoUt.jpg     [39m[1m[2m  220.63 kB[22m[1m[22m
+[2mdist/[22m[32massets/pune-10seater-view2-B51VtyLy.jpg      [39m[1m[2m  236.48 kB[22m[1m[22m
+[2mdist/[22m[32massets/pune-10seater-view1-B4rRsEWd.jpg      [39m[1m[2m  241.98 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-slider-3-RwxEWGxx.jpg           [39m[1m[2m  257.35 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-slider-2-uTDe0F-M.jpg           [39m[1m[2m  259.63 kB[22m[1m[22m
+[2mdist/[22m[32massets/pune-slider-3-D2WgHTkV.jpg            [39m[1m[2m  315.33 kB[22m[1m[22m
+[2mdist/[22m[32massets/reception-CktLTqYY.png                [39m[1m[2m  673.51 kB[22m[1m[22m
+[2mdist/[22m[32massets/jasai-slider-1-BFeOy7gy.jpg           [39m[1m[2m  698.31 kB[22m[1m[22m
+[2mdist/[22m[32massets/meeting-room-BbExu5lw.png             [39m[1m[2m  770.57 kB[22m[1m[22m
+[2mdist/[22m[32massets/workspace-DyGlAnfl.png                [39m[1m[2m  780.51 kB[22m[1m[22m
+[2mdist/[22m[32melite.html                                   [39m[1m[2m  866.85 kB[22m[1m[22m[2m │ gzip: 629.50 kB[22m
+[2mdist/[22m[32massets/box-office-jasai-DjxhUP1w.png         [39m[1m[2m  868.23 kB[22m[1m[22m
+[2mdist/[22m[32massets/pune-slider-1-PSy3FaX4.png            [39m[1m[2m5,866.93 kB[22m[1m[22m
+[2mdist/[22m[32massets/pune-slider-2-BlCHBNKI.png            [39m[1m[2m6,378.03 kB[22m[1m[22m
+[2mdist/[22m[35massets/styles-DBmEQnh_.css                   [39m[1m[2m   13.06 kB[22m[1m[22m[2m │ gzip:   3.27 kB[22m
+[32m✓ built in 745ms[39m

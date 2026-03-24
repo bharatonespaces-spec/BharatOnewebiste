@@ -1,0 +1,1035 @@
+=== Auto-Poster Run: 16-03-2026  7:07:15.15 (Count: 1) === 
+
+  ╔═══════════════════════════════════════════╗
+  ║   📝 BharatOne Auto-Poster Engine         ║
+  ╚═══════════════════════════════════════════╝
+
+  📅 Date: 16/3/2026
+  ⏰ Time: 7:07:15 am
+
+🚀 Starting generation of 1 article(s)...
+
+--- Generating Article 1 of 1 ---
+🧠 Generating article with Gemini AI...
+   Category: Pune Business
+   Topic: Business advantages of a Camp Pune office address
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Strategic Advantage: Pune Camp Office Address for Logistics & EXIM Operations
+💾 Saved: blog/strategic-advantage-pune-camp-office-address-for-logistics-e.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Finalizing and Deploying ---
+🚀 Deploying to Netlify...
+✅ Deployed to bharatonespaces.com
+
+  ╔═══════════════════════════════════════════╗
+  ║   ✅ ALL ARTICLES PUBLISHED & LIVE!       ║
+  ║   🌐 bharatonespaces.com/blog              ║
+  ╚═══════════════════════════════════════════╝
+=== Auto-Poster Run: 17-03-2026 14:51:29.11 (Count: 1) === 
+
+  ╔═══════════════════════════════════════════╗
+  ║   📝 BharatOne Auto-Poster Engine         ║
+  ╚═══════════════════════════════════════════╝
+
+  📅 Date: 17/3/2026
+  ⏰ Time: 2:51:29 pm
+
+🚀 Starting generation of 1 article(s)...
+
+--- Generating Article 1 of 1 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: How improved connectivity is driving office demand in Uran
+   Trying model: gemini-2.5-flash-lite...
+❌ ERROR on article 1: getaddrinfo ENOTFOUND generativelanguage.googleapis.com
+
+--- Finalizing and Deploying ---
+🚀 Deploying to Netlify...
+✅ Deployed to bharatonespaces.com
+
+  ╔═══════════════════════════════════════════╗
+  ║   ✅ ALL ARTICLES PUBLISHED & LIVE!       ║
+  ║   🌐 bharatonespaces.com/blog              ║
+  ╚═══════════════════════════════════════════╝
+=== Auto-Poster Run: 17-03-2026 16:05:06.44 (Count: 19) === 
+
+  ╔═══════════════════════════════════════════╗
+  ║   📝 BharatOne Auto-Poster Engine         ║
+  ╚═══════════════════════════════════════════╝
+
+  📅 Date: 17/3/2026
+  ⏰ Time: 4:05:06 pm
+
+🚀 Starting generation of 19 article(s)...
+
+--- Generating Article 1 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: Jasai as the next big airport business hub
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai: Navi Mumbai's Emerging Airport Business Hub for Logistics & EXIM
+❌ ERROR on article 1: d.keywords.replace is not a function
+
+--- Generating Article 2 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Why connectivity matters more than rent for office location
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Navi Mumbai Office Location: How Atal Setu & NMIA Connectivity Boosts Logistics Efficiency
+💾 Saved: blog/navi-mumbai-office-location-how-atal-setu-nmia-connectivity-.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 3 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: Why freight forwarders need an office near JNPT port
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Office Near JNPT Port: Why Freight Forwarders Need Strategic Proximity
+💾 Saved: blog/office-near-jnpt-port-why-freight-forwarders-need-strategic-.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 4 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Startups & Coworking
+   Topic: Virtual office address benefits for new businesses
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Virtual Office Address Benefits for Navi Mumbai Logistics Startups
+❌ ERROR on article 4: d.keywords.replace is not a function
+
+--- Generating Article 5 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Navi Mumbai infrastructure boom and what it means for business
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Navi Mumbai's Infrastructure Boom: Unlocking Logistics Efficiency and Business Growth in Jasai
+💾 Saved: blog/navi-mumbais-infrastructure-boom-unlocking-logistics-efficie.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 6 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: NMIA 24/7 operations impact on commercial property
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: NMIA's 24/7 Operations: Reshaping Commercial Office Spaces for Logistics in Jasai, Navi Mumbai
+💾 Saved: blog/nmias-247-operations-reshaping-commercial-office-spaces-for-.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 7 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Transit times from Jasai to key business destinations
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Jasai Connectivity: Optimizing Transit Times for Navi Mumbai Logistics & EXIM Operations
+💾 Saved: blog/jasai-connectivity-optimizing-transit-times-for-navi-mumbai-.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 8 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Navi Mumbai infrastructure boom and what it means for business
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Navi Mumbai's Infrastructure Boom: Unlocking Logistics Efficiency and EXIM Growth in Jasai
+💾 Saved: blog/navi-mumbais-infrastructure-boom-unlocking-logistics-efficie.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 9 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Startups & Coworking
+   Topic: Plug-and-play offices vs traditional offices for startups
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+   ⚠️  JSON parse failed, retrying with repair...
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Optimizing Operations: Plug-and-Play vs. Traditional Offices for Freight Forwarders Near JNPT & NMIA
+💾 Saved: blog/optimizing-operations-plug-and-play-vs-traditional-offices-f.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 10 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: Jasai as the next big airport business hub
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Jasai: Navi Mumbai's Premier Airport Business Hub for Logistics & EXIM Operations
+💾 Saved: blog/jasai-navi-mumbais-premier-airport-business-hub-for-logistic.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 11 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Startups & Coworking
+   Topic: The hidden costs of working from home vs coworking
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Navigating Operational Efficiency: Coworking vs. Work-From-Home for Navi Mumbai Logistics & EXIM Firms
+💾 Saved: blog/navigating-operational-efficiency-coworking-vs-work-from-hom.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 12 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: Best practices for freight forwarding office setup near a major port
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Optimizing Freight Forwarding: Best Practices for an Office Near JNPT Port, Navi Mumbai
+💾 Saved: blog/optimizing-freight-forwarding-best-practices-for-an-office-n.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 13 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: Setting up a customs clearance office near JNPT
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Establishing a Customs Clearance Office Near JNPT: Strategic Advantages in Jasai, Navi Mumbai
+💾 Saved: blog/establishing-a-customs-clearance-office-near-jnpt-strategic-.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 14 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Pune Business
+   Topic: Why Pune Camp is the best business address for professionals
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Pune Camp: The Strategic Business Address for Logistics Professionals & EXIM Firms
+💾 Saved: blog/pune-camp-the-strategic-business-address-for-logistics-profe.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 15 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: Why proximity to JNPT gives your logistics business an edge
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Unlocking Efficiency: Why a Logistics Office Near JNPT Jasai Powers Your Supply Chain
+💾 Saved: blog/unlocking-efficiency-why-a-logistics-office-near-jnpt-jasai-.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 16 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Work Culture & Productivity
+   Topic: Essential office amenities for modern businesses
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Optimize Logistics Operations: Essential Office Amenities for Freight Forwarders in Jasai, Navi Mumbai
+💾 Saved: blog/optimize-logistics-operations-essential-office-amenities-for.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 17 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Startups & Coworking
+   Topic: Why startups should consider Jasai over BKC
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Jasai vs. BKC: Strategic Office Space for Logistics Startups in Navi Mumbai
+💾 Saved: blog/jasai-vs-bkc-strategic-office-space-for-logistics-startups-i.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 18 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Mumbai to Navi Mumbai commute: before and after Atal Setu
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Atal Setu's Transformative Impact on Jasai Logistics and Navi Mumbai Connectivity
+💾 Saved: blog/atal-setus-transformative-impact-on-jasai-logistics-and-navi.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 19 of 19 ---
+🧠 Generating article with Gemini AI...
+   Category: Startups & Coworking
+   Topic: How to choose between coworking and private office
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Optimizing Operations: Coworking or Private Office for Logistics Firms near JNPT & NMIA?
+💾 Saved: blog/optimizing-operations-coworking-or-private-office-for-logist.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Finalizing and Deploying ---
+🚀 Deploying to Netlify...
+✅ Deployed to bharatonespaces.com
+
+  ╔═══════════════════════════════════════════╗
+  ║   ✅ ALL ARTICLES PUBLISHED & LIVE!       ║
+  ║   🌐 bharatonespaces.com/blog              ║
+  ╚═══════════════════════════════════════════╝
+=== Auto-Poster Run: 19-03-2026  7:26:45.92 (Count: 10) === 
+
+  ╔═══════════════════════════════════════════╗
+  ║   📝 BharatOne Auto-Poster Engine         ║
+  ╚═══════════════════════════════════════════╝
+
+  📅 Date: 19/3/2026
+  ⏰ Time: 7:26:46 am
+
+🚀 Starting generation of 10 article(s)...
+
+--- Generating Article 1 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: Jasai as the next big airport business hub
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai: The Emerging Airport Business Hub for JNPT & NMIA Logistics Operations
+❌ ERROR on article 1: d.keywords.replace is not a function
+
+--- Generating Article 2 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: How improved connectivity is driving office demand in Uran
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  Server error (503): This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.. Retrying in 2s...
+   🔄 Retrying model gemini-2.5-flash-lite (Attempt 1/3)...
+   ✅ Success after retry using model: gemini-2.5-flash-lite
+📄 Article generated: Uran Office Demand Surge: How Atal Setu & NMIA Connectivity Revolutionize Logistics Hubs
+❌ ERROR on article 2: d.keywords.replace is not a function
+
+--- Generating Article 3 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: Why proximity to JNPT gives your logistics business an edge
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Office Near JNPT: Unlock Logistics Efficiency & Competitive Advantage
+💾 Saved: blog/office-near-jnpt-unlock-logistics-efficiency-competitive-adv.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 4 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Startups & Coworking
+   Topic: Why startups should consider Jasai over BKC
+   Trying model: gemini-2.5-flash-lite...
+^C=== Auto-Poster Run: 20-03-2026  6:25:35.40 (Count: 10) === 
+
+  ╔═══════════════════════════════════════════╗
+  ║   📝 BharatOne Auto-Poster Engine         ║
+  ╚═══════════════════════════════════════════╝
+
+  📅 Date: 20/3/2026
+  ⏰ Time: 6:25:35 am
+
+🚀 Starting generation of 10 article(s)...
+
+--- Generating Article 1 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: How NMIA connectivity boosts business productivity
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: NMIA Connectivity: Elevating Logistics & EXIM Business Productivity Near Navi Mumbai Airport
+💾 Saved: blog/nmia-connectivity-elevating-logistics-exim-business-producti.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 2 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: How JNPT road is becoming a commercial hotspot
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: JNPT Road: The Emerging Commercial Hub for Logistics & EXIM Operations in Navi Mumbai
+❌ ERROR on article 2: d.keywords.replace is not a function
+
+--- Generating Article 3 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Navi Mumbai infrastructure boom and what it means for business
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Navi Mumbai Infrastructure Boom: How MTHL & NMIA Connectivity Revolutionize Logistics & EXIM
+❌ ERROR on article 3: d.keywords.replace is not a function
+
+--- Generating Article 4 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: Top reasons logistics companies choose Jasai
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai Office Spaces: Strategic Hub for JNPT & NMIA Logistics Operations
+❌ ERROR on article 4: d.keywords.replace is not a function
+
+--- Generating Article 5 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: How improved connectivity is driving office demand in Uran
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Uran Office Demand Surge: How Atal Setu & NMIA Connectivity Redefines Logistics Hubs
+❌ ERROR on article 5: d.keywords.replace is not a function
+
+--- Generating Article 6 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Commercial Real Estate
+   Topic: Jasai commercial real estate: investment guide 2026
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai Commercial Real Estate: 2026 Investment Guide for Logistics & EXIM Professionals
+💾 Saved: blog/jasai-commercial-real-estate-2026-investment-guide-for-logis.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 7 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Navi Mumbai infrastructure boom and what it means for business
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Navi Mumbai Infrastructure Boom: Unlocking New Efficiencies for Logistics & EXIM
+❌ ERROR on article 7: d.keywords.replace is not a function
+
+--- Generating Article 8 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: NMIA 24/7 operations impact on commercial property
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: NMIA 24/7 Operations: Unlocking Prime Commercial Property Opportunities Near Navi Mumbai Airport
+💾 Saved: blog/nmia-247-operations-unlocking-prime-commercial-property-oppo.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 9 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Commercial Real Estate
+   Topic: Why JNPT road is the next commercial property goldmine
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: JNPT Road: The Emerging Commercial Real Estate Hub for Logistics & EXIM
+❌ ERROR on article 9: d.keywords.replace is not a function
+
+--- Generating Article 10 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: Aviation services office setup near NMIA
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Aviation Services Office Setup Near NMIA: Strategic Hub for Freight Forwarders & EXIM Traders
+💾 Saved: blog/aviation-services-office-setup-near-nmia-strategic-hub-for-f.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Finalizing and Deploying ---
+🚀 Deploying to Netlify...
+✅ Deployed to bharatonespaces.com
+
+  ╔═══════════════════════════════════════════╗
+  ║   ✅ ALL ARTICLES PUBLISHED & LIVE!       ║
+  ║   🌐 bharatonespaces.com/blog              ║
+  ╚═══════════════════════════════════════════╝
+=== Auto-Poster Run: 20-03-2026  6:33:39.37 (Count: 20) === 
+
+  ╔═══════════════════════════════════════════╗
+  ║   📝 BharatOne Auto-Poster Engine         ║
+  ╚═══════════════════════════════════════════╝
+
+  📅 Date: 20/3/2026
+  ⏰ Time: 6:33:39 am
+
+🚀 Starting generation of 20 article(s)...
+
+--- Generating Article 1 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: How JNPT road is becoming a commercial hotspot
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: JNPT Road: The New Logistics Commercial Hotspot for Freight Forwarders & Customs Agents
+💾 Saved: blog/jnpt-road-the-new-logistics-commercial-hotspot-for-freight-f.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 2 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: Jasai as the next big airport business hub
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai: The Emerging Airport Business Hub for Logistics & EXIM Operations Near NMIA
+💾 Saved: blog/jasai-the-emerging-airport-business-hub-for-logistics-exim-o.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 3 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: Why proximity to JNPT gives your logistics business an edge
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Proximity to JNPT: The Strategic Advantage for Your Logistics Business in Navi Mumbai
+💾 Saved: blog/proximity-to-jnpt-the-strategic-advantage-for-your-logistics.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 4 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Why connectivity matters more than rent for office location
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: MTHL Impact: Why Jasai Connectivity Trumps Rent for Logistics & EXIM Businesses
+💾 Saved: blog/mthl-impact-why-jasai-connectivity-trumps-rent-for-logistics.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 5 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: How NMIA connectivity boosts business productivity
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: NMIA Connectivity: Boosting Productivity for EXIM Traders & Freight Forwarders in Navi Mumbai
+💾 Saved: blog/nmia-connectivity-boosting-productivity-for-exim-traders-fre.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 6 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Startups & Coworking
+   Topic: The hidden costs of working from home vs coworking
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Coworking vs. WFH: Unpacking Hidden Costs for Navi Mumbai Logistics Professionals
+💾 Saved: blog/coworking-vs-wfh-unpacking-hidden-costs-for-navi-mumbai-logi.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 7 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Work Culture & Productivity
+   Topic: How office location affects employee retention
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Strategic Office Location & Employee Retention: Insights for JNPT, NMIA Logistics Professionals
+💾 Saved: blog/strategic-office-location-employee-retention-insights-for-jn.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 8 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Startups & Coworking
+   Topic: Virtual office address benefits for new businesses
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Virtual Office Address in Navi Mumbai: Cost-Effective Solutions for EXIM Traders & Freight Forwarders
+💾 Saved: blog/virtual-office-address-in-navi-mumbai-cost-effective-solutio.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 9 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: Top reasons logistics companies choose Jasai
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Strategic Office Locations: Top Reasons Logistics Companies Choose Jasai Near JNPT & NMIA
+💾 Saved: blog/strategic-office-locations-top-reasons-logistics-companies-c.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 10 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Why connectivity matters more than rent for office location
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Unlocking EXIM Efficiency: Why MTHL Connectivity Trumps Rent for Navi Mumbai Logistics Hubs
+💾 Saved: blog/unlocking-exim-efficiency-why-mthl-connectivity-trumps-rent-.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 11 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: Jasai as the next big airport business hub
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai: The Emerging Airport Business Hub for Indian Logistics & EXIM
+💾 Saved: blog/jasai-the-emerging-airport-business-hub-for-indian-logistics.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 12 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: How improved connectivity is driving office demand in Uran
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Uran's Connectivity Boom: Driving Office Demand for Logistics & EXIM Operations
+💾 Saved: blog/urans-connectivity-boom-driving-office-demand-for-logistics-.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 13 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: How NMIA connectivity boosts business productivity
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+   ✅ Using model: gemini-2.5-flash
+📄 Article generated: Jasai's Strategic Edge: How NMIA Connectivity Propels Logistics and EXIM Productivity
+💾 Saved: blog/jasais-strategic-edge-how-nmia-connectivity-propels-logistic.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 14 of 20 ---
+🧠 Generating article with Gemini AI...
+   Category: Commercial Real Estate
+   Topic: Why JNPT road is the next commercial property goldmine
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  gemini-2.5-flash-lite quota exceeded, trying next...
+   Trying model: gemini-2.5-flash...
+^C=== Auto-Poster Run: 21-03-2026  7:29:31.41 (Count: 10) === 
+
+  ╔═══════════════════════════════════════════╗
+  ║   📝 BharatOne Auto-Poster Engine         ║
+  ╚═══════════════════════════════════════════╝
+
+  📅 Date: 21/3/2026
+  ⏰ Time: 7:29:31 am
+
+🚀 Starting generation of 10 article(s)...
+
+--- Generating Article 1 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Startups & Coworking
+   Topic: Why startups should consider Jasai over BKC
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai vs. BKC for Logistics Startups: Strategic Advantages Near NMIA & JNPT
+💾 Saved: blog/jasai-vs-bkc-for-logistics-startups-strategic-advantages-nea.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 2 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: Jasai as the next big airport business hub
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai: The Emerging Airport Business Hub for Logistics & EXIM Professionals Near NMIA
+💾 Saved: blog/jasai-the-emerging-airport-business-hub-for-logistics-exim-p.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 3 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: NMIA 24/7 operations impact on commercial property
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: NMIA 24/7 Operations: Strategic Office Locations for Logistics & Aviation Businesses in Navi Mumbai
+💾 Saved: blog/nmia-247-operations-strategic-office-locations-for-logistics.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 4 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Why connectivity matters more than rent for office location
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: MTHL & NMIA: Why Jasai Office Connectivity Beats Low Rent for EXIM & Logistics
+💾 Saved: blog/mthl-nmia-why-jasai-office-connectivity-beats-low-rent-for-e.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 5 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: How NMIA connectivity boosts business productivity
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: NMIA Connectivity: Boosting Productivity for Navi Mumbai Logistics & EXIM Businesses
+💾 Saved: blog/nmia-connectivity-boosting-productivity-for-navi-mumbai-logi.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 6 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: Jasai as the next big airport business hub
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai: India's Emerging Airport Business Hub for Logistics and EXIM Professionals
+💾 Saved: blog/jasai-indias-emerging-airport-business-hub-for-logistics-and.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 7 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Why connectivity matters more than rent for office location
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: MTHL & NMIA: How Superior Connectivity Outweighs Rent for Navi Mumbai Logistics Hubs
+💾 Saved: blog/mthl-nmia-how-superior-connectivity-outweighs-rent-for-navi-.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 8 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: How JNPT road is becoming a commercial hotspot
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: JNPT Road: The Emerging Logistics & EXIM Commercial Hotspot Near Navi Mumbai
+💾 Saved: blog/jnpt-road-the-emerging-logistics-exim-commercial-hotspot-nea.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 9 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: NMIA 24/7 operations impact on commercial property
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: NMIA 24/7 Operations: Strategic Office Space for Freight Forwarders & EXIM Traders Near Navi Mumbai Airport
+💾 Saved: blog/nmia-247-operations-strategic-office-space-for-freight-forwa.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 10 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Mumbai to Navi Mumbai commute: before and after Atal Setu
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Atal Setu Impact: Revolutionizing Navi Mumbai Logistics & EXIM Connectivity
+💾 Saved: blog/atal-setu-impact-revolutionizing-navi-mumbai-logistics-exim-.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Finalizing and Deploying ---
+🚀 Deploying to Netlify...
+✅ Deployed to bharatonespaces.com
+
+  ╔═══════════════════════════════════════════╗
+  ║   ✅ ALL ARTICLES PUBLISHED & LIVE!       ║
+  ║   🌐 bharatonespaces.com/blog              ║
+  ╚═══════════════════════════════════════════╝
+=== Auto-Poster Run: 22-03-2026  6:44:26.46 (Count: 10) === 
+
+  ╔═══════════════════════════════════════════╗
+  ║   📝 BharatOne Auto-Poster Engine         ║
+  ╚═══════════════════════════════════════════╝
+
+  📅 Date: 22/3/2026
+  ⏰ Time: 6:44:27 am
+
+🚀 Starting generation of 10 article(s)...
+
+--- Generating Article 1 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Navi Mumbai infrastructure boom and what it means for business
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Navi Mumbai Infrastructure Boom: MTHL & NMIA Impact on Logistics and EXIM Business
+💾 Saved: blog/navi-mumbai-infrastructure-boom-mthl-nmia-impact-on-logistic.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 2 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: Jasai as the next big airport business hub
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai: The Emerging Airport Business Hub for Navi Mumbai's Logistics Sector
+💾 Saved: blog/jasai-the-emerging-airport-business-hub-for-navi-mumbais-log.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 3 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: Jasai as the next big airport business hub
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai: India's Emerging Airport Business Hub for Logistics and EXIM
+💾 Saved: blog/jasai-indias-emerging-airport-business-hub-for-logistics-and.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 4 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Commercial Real Estate
+   Topic: Why JNPT road is the next commercial property goldmine
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: JNPT Road Commercial Real Estate: The Emerging Hub for Logistics & EXIM Businesses
+💾 Saved: blog/jnpt-road-commercial-real-estate-the-emerging-hub-for-logist.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 5 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: How NMIA connectivity boosts business productivity
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: NMIA Connectivity: Unlock Peak Productivity for Logistics & EXIM in Navi Mumbai
+💾 Saved: blog/nmia-connectivity-unlock-peak-productivity-for-logistics-exi.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 6 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: NMIA 24/7 operations impact on commercial property
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: NMIA 24/7 Operations: Strategic Office Locations for EXIM Traders & Freight Forwarders in Navi Mumbai
+💾 Saved: blog/nmia-247-operations-strategic-office-locations-for-exim-trad.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 7 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Startups & Coworking
+   Topic: Why startups should consider Jasai over BKC
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai vs. BKC for Logistics Startups: Strategic Office Space Advantages
+💾 Saved: blog/jasai-vs-bkc-for-logistics-startups-strategic-office-space-a.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 8 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Commercial Real Estate
+   Topic: Why JNPT road is the next commercial property goldmine
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: JNPT Road Commercial Real Estate: The Emerging Logistics Hub for Navi Mumbai
+💾 Saved: blog/jnpt-road-commercial-real-estate-the-emerging-logistics-hub-.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 9 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: How JNPT road is becoming a commercial hotspot
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: JNPT Road: Your Next Prime Logistics Office Location for Enhanced EXIM Operations
+💾 Saved: blog/jnpt-road-your-next-prime-logistics-office-location-for-enha.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 10 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Commercial Real Estate
+   Topic: Why JNPT road is the next commercial property goldmine
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: JNPT Road: The Emerging Commercial Real Estate Hotspot for Navi Mumbai Logistics
+💾 Saved: blog/jnpt-road-the-emerging-commercial-real-estate-hotspot-for-na.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Finalizing and Deploying ---
+🚀 Deploying to Netlify...
+✅ Deployed to bharatonespaces.com
+
+  ╔═══════════════════════════════════════════╗
+  ║   ✅ ALL ARTICLES PUBLISHED & LIVE!       ║
+  ║   🌐 bharatonespaces.com/blog              ║
+  ╚═══════════════════════════════════════════╝
+=== Auto-Poster Run: 24-03-2026  6:58:38.96 (Count: 10) === 
+
+  ╔═══════════════════════════════════════════╗
+  ║   📝 BharatOne Auto-Poster Engine         ║
+  ╚═══════════════════════════════════════════╝
+
+  📅 Date: 24/3/2026
+  ⏰ Time: 6:58:39 am
+
+🚀 Starting generation of 10 article(s)...
+
+--- Generating Article 1 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Mumbai to Navi Mumbai commute: before and after Atal Setu
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Atal Setu's Impact: Revolutionizing Mumbai to Navi Mumbai Logistics & EXIM Commutes
+💾 Saved: blog/atal-setus-impact-revolutionizing-mumbai-to-navi-mumbai-logi.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 2 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: How NMIA is creating a new business district in Jasai
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: NMIA Business District: Prime Office Space for Logistics & EXIM near Navi Mumbai Airport
+💾 Saved: blog/nmia-business-district-prime-office-space-for-logistics-exim.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 3 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Why connectivity matters more than rent for office location
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: MTHL & NMIA: How Superior Connectivity Trumps Rent for Logistics Hubs in Navi Mumbai
+💾 Saved: blog/mthl-nmia-how-superior-connectivity-trumps-rent-for-logistic.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 4 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Startups & Coworking
+   Topic: Why startups should consider Jasai over BKC
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai vs. BKC for Logistics Startups: Cost-Effective Office Solutions Near NMIA & JNPT
+💾 Saved: blog/jasai-vs-bkc-for-logistics-startups-cost-effective-office-so.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 5 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Logistics & Maritime
+   Topic: How JNPT road is becoming a commercial hotspot
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: JNPT Road: The Emerging Commercial Hub for Logistics and EXIM Operations
+💾 Saved: blog/jnpt-road-the-emerging-commercial-hub-for-logistics-and-exim.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 6 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Commercial Real Estate
+   Topic: Why JNPT road is the next commercial property goldmine
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: JNPT Road: Unlocking Commercial Real Estate Value for Navi Mumbai's Logistics Sector
+💾 Saved: blog/jnpt-road-unlocking-commercial-real-estate-value-for-navi-mu.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 7 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: NMIA 24/7 operations impact on commercial property
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: NMIA 24/7 Operations: Strategic Office Locations for EXIM Trade & Logistics
+💾 Saved: blog/nmia-247-operations-strategic-office-locations-for-exim-trad.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 8 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Aviation & NMIA
+   Topic: Jasai as the next big airport business hub
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Jasai: The Emerging Airport Business Hub for EXIM Traders and Freight Forwarders Near NMIA
+💾 Saved: blog/jasai-the-emerging-airport-business-hub-for-exim-traders-and.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 9 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Commercial Real Estate
+   Topic: Why JNPT road is the next commercial property goldmine
+   Trying model: gemini-2.5-flash-lite...
+   ⚠️  Server error (503): This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.. Retrying in 2s...
+   🔄 Retrying model gemini-2.5-flash-lite (Attempt 1/3)...
+   ✅ Success after retry using model: gemini-2.5-flash-lite
+📄 Article generated: JNPT Road: The Emerging Commercial Real Estate Hotspot for Logistics & EXIM Businesses
+💾 Saved: blog/jnpt-road-the-emerging-commercial-real-estate-hotspot-for-lo.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Generating Article 10 of 10 ---
+🧠 Generating article with Gemini AI...
+   Category: Infrastructure & Connectivity
+   Topic: Why connectivity matters more than rent for office location
+   Trying model: gemini-2.5-flash-lite...
+   ✅ Using model: gemini-2.5-flash-lite
+📄 Article generated: Atal Setu Business Impact: Why Connectivity Trumps Rent for Navi Mumbai Logistics Hubs
+💾 Saved: blog/atal-setu-business-impact-why-connectivity-trumps-rent-for-n.html
+📋 Updated blog.html with new card
+📊 Logged to auto-post-log.json
+
+--- Finalizing and Deploying ---
+🚀 Deploying to Netlify...
+✅ Deployed to bharatonespaces.com
+
+  ╔═══════════════════════════════════════════╗
+  ║   ✅ ALL ARTICLES PUBLISHED & LIVE!       ║
+  ║   🌐 bharatonespaces.com/blog              ║
+  ╚═══════════════════════════════════════════╝

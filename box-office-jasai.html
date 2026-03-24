@@ -5,11 +5,173 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Box Office Jasai - Premium coworking space with fully furnished offices starting from ₹4,999/month. 3-seater and 7-seater options available.">
-    <title>Box Office Jasai - BharatOne Spaces</title>
+        content="Box Office Jasai by BharatOne Spaces — Office & Transit Hub 12 min from Navi Mumbai Airport (NMIA), 8 min from JNPT Port, near Dastan Fata & Atal Setu. Plug-and-play offices from ₹4,999/month.">
+    <meta name="keywords"
+        content="office near navi mumbai airport, office space jasai, coworking near NMIA, office near JNPT, atal setu office space, jasai coworking, navi mumbai airport office, JNPT office space, logistics office jasai">
+    <title>Box Office Jasai | Office & Transit Hub near Navi Mumbai Airport – BharatOne Spaces</title>
 
     <link rel="stylesheet" href="css/styles.css">
     <link rel="icon" type="image/png" href="images/logo.png">
+
+    <!-- JSON-LD Structured Data for Jasai Location -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "RealEstateAgent",
+      "name": "BharatOne Spaces — Box Office Jasai",
+      "description": "Office & Transit Hub near Navi Mumbai International Airport (NMIA) and JNPT Port. Plug-and-play offices for NMIA contractors, logistics consultants, and growing businesses. Located 12 minutes from NMIA Terminal 1 and 8 minutes from JNPT, near Dastan Fata on JNPT Road.",
+      "image": "https://bharatonespaces.com/images/box-office-jasai.png",
+      "@id": "https://bharatonespaces.com/box-office-jasai#location",
+      "url": "https://bharatonespaces.com/box-office-jasai.html",
+      "telephone": "+918899661111",
+      "email": "bharatonespaces@gmail.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Jasai, Uran, near Dastan Fata, JNPT Road",
+        "addressLocality": "Navi Mumbai",
+        "addressRegion": "MH",
+        "postalCode": "410206",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "18.9388",
+        "longitude": "72.9540"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "priceRange": "₹4,999 - ₹9,999/month"
+    }
+    </script>
+
+    <style>
+        .transit-table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+            border-radius: var(--radius-lg);
+            overflow: hidden;
+            box-shadow: var(--shadow-md);
+            margin: var(--space-6) 0;
+        }
+        .transit-table thead {
+            background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
+        }
+        .transit-table th {
+            padding: var(--space-4) var(--space-5);
+            color: var(--color-white);
+            font-weight: 700;
+            text-align: left;
+            font-size: var(--text-sm);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .transit-table td {
+            padding: var(--space-4) var(--space-5);
+            border-bottom: 1px solid var(--color-light-grey);
+            font-size: var(--text-base);
+        }
+        .transit-table tbody tr:last-child td {
+            border-bottom: none;
+        }
+        .transit-table tbody tr:nth-child(even) {
+            background: var(--color-off-white);
+        }
+        .transit-table tbody tr:hover {
+            background: rgba(var(--color-accent-rgb, 212, 175, 55), 0.08);
+            transition: background 0.3s ease;
+        }
+        .transit-table .time-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--color-accent), #e8c94b);
+            color: var(--color-primary-dark);
+            padding: 4px 14px;
+            border-radius: 20px;
+            font-weight: 700;
+            font-size: var(--text-sm);
+        }
+        .golden-triangle-banner {
+            background: linear-gradient(135deg, #0a1628 0%, #1a2d50 50%, #0f1d36 100%);
+            border-radius: var(--radius-xl);
+            padding: var(--space-10);
+            color: var(--color-white);
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+            margin: var(--space-8) 0;
+        }
+        .golden-triangle-banner::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: radial-gradient(ellipse at 30% 50%, rgba(212,175,55,0.15) 0%, transparent 60%),
+                        radial-gradient(ellipse at 70% 50%, rgba(212,175,55,0.1) 0%, transparent 60%);
+            pointer-events: none;
+        }
+        .golden-triangle-banner h2 {
+            color: var(--color-white);
+            position: relative;
+        }
+        .golden-triangle-points {
+            display: flex;
+            justify-content: center;
+            gap: var(--space-8);
+            flex-wrap: wrap;
+            margin-top: var(--space-6);
+            position: relative;
+        }
+        .triangle-point {
+            text-align: center;
+            flex: 1;
+            min-width: 160px;
+            max-width: 220px;
+        }
+        .triangle-point .icon {
+            font-size: 3rem;
+            margin-bottom: var(--space-3);
+            display: block;
+        }
+        .triangle-point h4 {
+            color: var(--color-accent);
+            margin-bottom: var(--space-2);
+        }
+        .triangle-point p {
+            color: rgba(255,255,255,0.8);
+            font-size: var(--text-sm);
+        }
+        .project-office-section {
+            background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
+            border-radius: var(--radius-xl);
+            padding: var(--space-10);
+            color: var(--color-white);
+            margin: var(--space-8) 0;
+        }
+        .project-office-section h3 {
+            color: var(--color-white);
+        }
+        .project-office-section ul {
+            list-style: none;
+            padding: 0;
+        }
+        .project-office-section li {
+            padding: var(--space-3) 0;
+            display: flex;
+            align-items: flex-start;
+            gap: var(--space-3);
+            color: rgba(255,255,255,0.9);
+            font-size: var(--text-lg);
+        }
+        .project-office-section li span.check {
+            color: var(--color-accent);
+            font-size: 1.3rem;
+            flex-shrink: 0;
+            margin-top: 2px;
+        }
+    </style>
 </head>
 
 <body>
@@ -28,7 +190,7 @@
 
             <ul class="nav-menu">
                 <li><a href="index.html" class="nav-link">Home</a></li>
-                <li><a href="box-office-jasai.html" class="nav-link">Box Office Jasai</a></li>
+                <li><a href="box-office-jasai.html" class="nav-link active">Box Office Jasai</a></li>
                 <li><a href="pune-camp.html" class="nav-link">Pune Camp</a></li>
                 <li><a href="for-brokers.html" class="nav-link">For Brokers</a></li>
                 <li><a href="blog.html" class="nav-link">Blog</a></li>
@@ -45,11 +207,10 @@
         <div class="container">
             <div class="hero-content fade-in-up">
                 <h1>Box Office <span class="text-accent">Jasai</span></h1>
-                <p>Modern coworking space in the heart of Jasai with premium amenities and flexible office solutions.
-                </p>
+                <p style="font-size: var(--text-xl); max-width: 700px;">Your office at the epicenter of Mumbai's aviation and maritime corridor — <strong>12 min from NMIA Terminal 1</strong>, <strong>8 min from JNPT Port</strong>.</p>
                 <div class="hero-cta">
                     <a href="#pricing" class="btn btn-accent btn-lg">View Pricing</a>
-                    <a href="tel:+918898881222" class="btn btn-outline btn-lg btn-call">📞 Call Now</a>
+                    <a href="tel:+918899661111" class="btn btn-outline btn-lg btn-call">📞 Call Now</a>
                 </div>
             </div>
         </div>
@@ -60,43 +221,38 @@
         <div class="container">
             <div class="grid grid-2" style="gap: var(--space-12); align-items: center;">
                 <div class="fade-in-up">
-                    <img src="images/box-office-jasai.png" alt="Box Office Jasai Exterior"
+                    <img src="images/box-office-jasai.png" alt="Box Office Jasai — Office Space near Navi Mumbai Airport and JNPT Port"
                         style="width: 100%; border-radius: var(--radius-xl); box-shadow: var(--shadow-xl);">
                 </div>
 
                 <div class="fade-in-up">
                     <h2>About Box Office Jasai</h2>
-                    <p>Located in the prime area of Jasai, Box Office offers a professional workspace environment
-                        designed for productivity and collaboration. Our fully furnished offices come equipped with
-                        everything you need to start working from day one.</p>
+                    <p>Located <strong>near Dastan Fata on JNPT Road</strong>, Box Office Jasai sits at the strategic convergence of India's newest international airport and Asia's busiest container port. With the <strong>Navi Mumbai International Airport (NMIA) now operating 24/7</strong> commercial flights, Jasai has officially become the primary logistics and transit artery of the entire Mumbai Metropolitan Region.</p>
+
+                    <p style="margin-top: var(--space-4);">Our fully furnished offices are designed for professionals who need to be where the action is — connected to <strong>Mumbai in 20 minutes via Atal Setu (MTHL)</strong>, <strong>Navi Mumbai in 10 minutes</strong>, and with the <strong>Jasai Railway Station just 900 metres away</strong>.</p>
 
                     <div style="margin-top: var(--space-6);">
                         <h4>Key Highlights:</h4>
                         <ul style="list-style: none; padding: 0;">
-                            <li
-                                style="padding: var(--space-2) 0; display: flex; align-items: center; gap: var(--space-3);">
+                            <li style="padding: var(--space-2) 0; display: flex; align-items: center; gap: var(--space-3);">
                                 <span style="color: var(--color-accent); font-size: 1.5rem;">✓</span>
-                                <span>Prime location in Jasai with excellent connectivity</span>
+                                <span><strong>12 min from NMIA Terminal 1</strong> — India's newest international airport</span>
                             </li>
-                            <li
-                                style="padding: var(--space-2) 0; display: flex; align-items: center; gap: var(--space-3);">
+                            <li style="padding: var(--space-2) 0; display: flex; align-items: center; gap: var(--space-3);">
                                 <span style="color: var(--color-accent); font-size: 1.5rem;">✓</span>
-                                <span>Fully furnished with modern furniture and equipment</span>
+                                <span><strong>8 min from JNPT Port</strong> — Asia's busiest container terminal</span>
                             </li>
-                            <li
-                                style="padding: var(--space-2) 0; display: flex; align-items: center; gap: var(--space-3);">
+                            <li style="padding: var(--space-2) 0; display: flex; align-items: center; gap: var(--space-3);">
                                 <span style="color: var(--color-accent); font-size: 1.5rem;">✓</span>
-                                <span>High-speed internet connectivity</span>
+                                <span><strong>Near Dastan Fata</strong>, directly on JNPT Road with Atal Setu (MTHL) exit access</span>
                             </li>
-                            <li
-                                style="padding: var(--space-2) 0; display: flex; align-items: center; gap: var(--space-3);">
+                            <li style="padding: var(--space-2) 0; display: flex; align-items: center; gap: var(--space-3);">
                                 <span style="color: var(--color-accent); font-size: 1.5rem;">✓</span>
-                                <span>24/7 access with CCTV security</span>
+                                <span>Jasai Railway Station — <strong>900 metres</strong> walking distance</span>
                             </li>
-                            <li
-                                style="padding: var(--space-2) 0; display: flex; align-items: center; gap: var(--space-3);">
+                            <li style="padding: var(--space-2) 0; display: flex; align-items: center; gap: var(--space-3);">
                                 <span style="color: var(--color-accent); font-size: 1.5rem;">✓</span>
-                                <span>Dedicated parking space available</span>
+                                <span>24/7 access with CCTV security & dedicated parking</span>
                             </li>
                         </ul>
                     </div>
@@ -105,8 +261,129 @@
         </div>
     </section>
 
+    <!-- The Golden Triangle Banner -->
+    <section class="section" style="background: var(--color-off-white);">
+        <div class="container">
+            <div class="golden-triangle-banner fade-in-up">
+                <h2>The <span class="text-accent">Golden Triangle</span> of Opportunity</h2>
+                <p style="color: rgba(255,255,255,0.85); max-width: 650px; margin: 0 auto; font-size: var(--text-lg);">Jasai sits at the exact intersection of India's two most critical trade gateways — and your office can be right here.</p>
+
+                <div class="golden-triangle-points">
+                    <div class="triangle-point">
+                        <span class="icon">✈️</span>
+                        <h4>NMIA</h4>
+                        <p>Navi Mumbai International Airport — 24/7 commercial operations</p>
+                    </div>
+                    <div class="triangle-point">
+                        <span class="icon">🏢</span>
+                        <h4>BOX OFFICE JASAI</h4>
+                        <p>Your plug-and-play office at the epicenter</p>
+                    </div>
+                    <div class="triangle-point">
+                        <span class="icon">🚢</span>
+                        <h4>JNPT Port</h4>
+                        <p>Jawaharlal Nehru Port — Asia's busiest container terminal</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Transit Time Table -->
+    <section class="section-lg">
+        <div class="container">
+            <div class="text-center mb-8">
+                <h2 class="fade-in-up">Transit <span class="text-accent">Time Table</span></h2>
+                <p class="fade-in-up">Distance is measured in minutes. Here's how connected you are from Box Office Jasai.</p>
+            </div>
+
+            <div class="fade-in-up" style="max-width: 800px; margin: 0 auto;">
+                <table class="transit-table">
+                    <thead>
+                        <tr>
+                            <th>Destination</th>
+                            <th>Approx. Distance</th>
+                            <th>Travel Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><strong>✈️ NMIA Terminal 1</strong></td>
+                            <td>~15 km</td>
+                            <td><span class="time-badge">~12 min</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>🚢 JNPT Port</strong></td>
+                            <td>~8 km</td>
+                            <td><span class="time-badge">~8 min</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>🚉 Jasai Railway Station</strong></td>
+                            <td>900 m</td>
+                            <td><span class="time-badge">~2 min walk</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>🚉 Panvel Station</strong></td>
+                            <td>~20 km</td>
+                            <td><span class="time-badge">~25 min</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>🏙️ Ulwe</strong></td>
+                            <td>~12 km</td>
+                            <td><span class="time-badge">~15 min</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>🌆 Navi Mumbai</strong></td>
+                            <td>~18 km</td>
+                            <td><span class="time-badge">~10 min</span></td>
+                        </tr>
+                        <tr>
+                            <td><strong>🌉 Mumbai (via Atal Setu)</strong></td>
+                            <td>~22 km</td>
+                            <td><span class="time-badge">~20 min</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Project Office Section -->
+    <section class="section" style="background: var(--color-off-white);">
+        <div class="container">
+            <div class="grid grid-2" style="gap: var(--space-10); align-items: center;">
+                <div class="fade-in-up">
+                    <div class="project-office-section">
+                        <h3 style="font-size: var(--text-2xl); margin-bottom: var(--space-2);">Plug-and-Play Offices for <span class="text-accent">NMIA Contractors</span> & Logistics Consultants</h3>
+                        <p style="color: rgba(255,255,255,0.85); margin-bottom: var(--space-6);">Jasai is the base camp for anyone working on airport infrastructure, port logistics, or the exploding supply chain corridor. Move in today — start working tomorrow.</p>
+
+                        <ul>
+                            <li><span class="check">✓</span> Airport construction & infrastructure contractors</li>
+                            <li><span class="check">✓</span> Shipping lines & freight forwarding companies</li>
+                            <li><span class="check">✓</span> Supply chain & logistics consulting firms</li>
+                            <li><span class="check">✓</span> Customs house agents & port service providers</li>
+                            <li><span class="check">✓</span> Engineering & project management offices</li>
+                            <li><span class="check">✓</span> Startups in cargo-tech and aviation services</li>
+                        </ul>
+
+                        <a href="#enquiry" class="btn btn-accent btn-lg" style="margin-top: var(--space-6); width: 100%;">Book Your Project Office →</a>
+                    </div>
+                </div>
+
+                <div class="fade-in-up">
+                    <h3 style="margin-bottom: var(--space-4);">Why Set Up Here?</h3>
+                    <p>With NMIA now fully operational 24/7, Jasai is no longer a "future opportunity" — it's the <strong>present-day nerve center</strong> of the Mumbai Metropolitan Region's trade and transit infrastructure.</p>
+
+                    <p style="margin-top: var(--space-4);">Being in Jasai means you aren't just "near" an airport — you're in the <strong>primary logistics and transit artery</strong> serving both aviation and maritime industries. The convergence of NMIA and JNPT in a single corridor creates an unparalleled density of business opportunity that no other location in the MMR can match.</p>
+
+                    <p style="margin-top: var(--space-4);">Whether you need a <strong>short-term project office</strong> for a 6-month airport contract or a <strong>permanent base</strong> for your logistics business, Box Office Jasai is move-in ready with high-speed internet, AC, parking, and 24/7 access.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Pricing Section -->
-    <section id="pricing" class="section" style="background: var(--color-off-white);">
+    <section id="pricing" class="section" style="background: var(--color-white);">
         <div class="container">
             <div class="text-center mb-8">
                 <h2 class="fade-in-up">Flexible <span class="text-accent">Pricing Plans</span></h2>
@@ -122,16 +399,11 @@
                         <p class="property-price" style="margin: var(--space-6) 0;">₹4,999<span>/month</span></p>
 
                         <ul style="list-style: none; padding: 0; text-align: left; margin-bottom: var(--space-6);">
-                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ 3
-                                Workstations with chairs</li>
-                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓
-                                High-speed WiFi</li>
-                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓
-                                Air Conditioning</li>
-                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓
-                                Shared pantry access</li>
-                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓
-                                Parking for 1 vehicle</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ 3 Workstations with chairs</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ High-speed WiFi</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ Air Conditioning</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ Shared pantry access</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ Parking for 1 vehicle</li>
                             <li style="padding: var(--space-2) 0;">✓ 24/7 Access</li>
                         </ul>
 
@@ -141,8 +413,7 @@
 
                 <!-- 7-Seater Office -->
                 <div class="card fade-in-up" style="text-align: center; border: 3px solid var(--color-accent);">
-                    <div
-                        style="background: var(--color-accent); color: var(--color-primary); padding: var(--space-2); font-weight: 700;">
+                    <div style="background: var(--color-accent); color: var(--color-primary); padding: var(--space-2); font-weight: 700;">
                         POPULAR CHOICE</div>
                     <div class="card-content">
                         <div style="font-size: 3rem; margin-bottom: var(--space-4);">🏢</div>
@@ -150,18 +421,12 @@
                         <p class="property-price" style="margin: var(--space-6) 0;">₹9,999<span>/month</span></p>
 
                         <ul style="list-style: none; padding: 0; text-align: left; margin-bottom: var(--space-6);">
-                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ 7
-                                Workstations with chairs</li>
-                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓
-                                High-speed WiFi</li>
-                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓
-                                Air Conditioning</li>
-                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓
-                                Private pantry</li>
-                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓
-                                Meeting room access</li>
-                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓
-                                Parking for 2 vehicles</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ 7 Workstations with chairs</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ High-speed WiFi</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ Air Conditioning</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ Private pantry</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ Meeting room access</li>
+                            <li style="padding: var(--space-2) 0; border-bottom: 1px solid var(--color-light-grey);">✓ Parking for 2 vehicles</li>
                             <li style="padding: var(--space-2) 0;">✓ 24/7 Access</li>
                         </ul>
 
@@ -212,8 +477,6 @@
                     </div>
                 </div>
 
-
-
                 <div class="card fade-in-up">
                     <div class="card-content text-center">
                         <div style="font-size: 3rem; margin-bottom: var(--space-3);">🔒</div>
@@ -241,37 +504,61 @@
         </div>
     </section>
 
-    <!-- Location Advantages -->
+    <!-- Location Advantages — Rewritten -->
     <section class="section" style="background: var(--color-off-white);">
         <div class="container">
             <div class="text-center mb-8">
                 <h2 class="fade-in-up">Location <span class="text-accent">Advantages</span></h2>
+                <p class="fade-in-up">Why Jasai is the smartest office location in the Mumbai Metropolitan Region</p>
             </div>
 
             <div class="grid grid-3">
                 <div class="fade-in-up">
                     <h4 style="display: flex; align-items: center; gap: var(--space-3);">
+                        <span style="color: var(--color-accent); font-size: 2rem;">✈️</span>
+                        NMIA Airport Access
+                    </h4>
+                    <p><strong>12 minutes to Terminal 1</strong> — Navi Mumbai International Airport is now operational 24/7. Your clients fly in, you're already there.</p>
+                </div>
+
+                <div class="fade-in-up">
+                    <h4 style="display: flex; align-items: center; gap: var(--space-3);">
+                        <span style="color: var(--color-accent); font-size: 2rem;">🚢</span>
+                        JNPT Port Proximity
+                    </h4>
+                    <p><strong>8 minutes to JNPT</strong> — India's busiest container port is practically next door. Ideal for shipping, logistics, and customs operations.</p>
+                </div>
+
+                <div class="fade-in-up">
+                    <h4 style="display: flex; align-items: center; gap: var(--space-3);">
+                        <span style="color: var(--color-accent); font-size: 2rem;">🌉</span>
+                        Atal Setu (MTHL) Connectivity
+                    </h4>
+                    <p><strong>Mumbai in 20 minutes</strong> via the Atal Setu exit near Dastan Fata. Navi Mumbai in just 10 minutes. The sea-link changed everything.</p>
+                </div>
+
+                <div class="fade-in-up">
+                    <h4 style="display: flex; align-items: center; gap: var(--space-3);">
+                        <span style="color: var(--color-accent); font-size: 2rem;">🚉</span>
+                        Railway Within Walking Distance
+                    </h4>
+                    <p><strong>900 metres to Jasai Railway Station</strong>. Panvel Junction is 25 minutes away, connecting you to the entire Mumbai suburban rail network.</p>
+                </div>
+
+                <div class="fade-in-up">
+                    <h4 style="display: flex; align-items: center; gap: var(--space-3);">
                         <span style="color: var(--color-accent); font-size: 2rem;">📍</span>
-                        Strategic Location
+                        Dastan Fata — JNPT Road
                     </h4>
-                    <p>Located in the commercial hub of Jasai with easy access to major business centers and residential
-                        areas.</p>
+                    <p>Positioned on the <strong>JNPT Road near Dastan Fata</strong>, the primary arterial connecting the port, airport, and the Atal Setu corridor.</p>
                 </div>
 
                 <div class="fade-in-up">
                     <h4 style="display: flex; align-items: center; gap: var(--space-3);">
-                        <span style="color: var(--color-accent); font-size: 2rem;">🚌</span>
-                        Excellent Connectivity
+                        <span style="color: var(--color-accent); font-size: 2rem;">🏗️</span>
+                        Growth Corridor
                     </h4>
-                    <p>Well-connected by public transport with bus stops and railway stations within 2 km radius.</p>
-                </div>
-
-                <div class="fade-in-up">
-                    <h4 style="display: flex; align-items: center; gap: var(--space-3);">
-                        <span style="color: var(--color-accent); font-size: 2rem;">🍽️</span>
-                        Nearby Amenities
-                    </h4>
-                    <p>Restaurants, cafes, banks, and shopping centers within walking distance for your convenience.</p>
+                    <p>Jasai is at the heart of the <strong>NMIA-JNPT growth corridor</strong> — land values, infrastructure, and business density are all accelerating.</p>
                 </div>
             </div>
         </div>
@@ -286,21 +573,21 @@
 
             <div class="gallery-grid">
                 <div class="gallery-item fade-in-up">
-                    <img src="images/workspace.png" alt="Workspace Interior">
+                    <img src="images/workspace.png" alt="Modern Workspace at Box Office Jasai near Navi Mumbai Airport">
                     <div class="gallery-overlay">
                         <p>Modern Workspace</p>
                     </div>
                 </div>
 
                 <div class="gallery-item fade-in-up">
-                    <img src="images/meeting-room.png" alt="Meeting Room">
+                    <img src="images/meeting-room.png" alt="Meeting Room at Box Office Jasai Coworking Space">
                     <div class="gallery-overlay">
                         <p>Meeting Room</p>
                     </div>
                 </div>
 
                 <div class="gallery-item fade-in-up">
-                    <img src="images/reception.png" alt="Reception Area">
+                    <img src="images/reception.png" alt="Reception Area at Box Office Jasai Office Space">
                     <div class="gallery-overlay">
                         <p>Reception Area</p>
                     </div>
@@ -400,20 +687,20 @@
 
                 <div class="footer-section">
                     <h3>Contact Us</h3>
-                    <p>📞 <a href="tel:+918898881222">+91 8898881222</a></p>
-                    <p>📱 <a href="https://wa.me/918899661111">+91 8899661111</a></p>
+                    <p>📞 <a href="tel:+918899661111">+91 8899661111</a></p>
+                    <p>📱 <a href="https://wa.me/918899661111">WhatsApp Us</a></p>
                     <p>✉️ <a href="mailto:bharatonespaces@gmail.com">bharatonespaces@gmail.com</a></p>
                 </div>
             </div>
 
             <div class="footer-bottom">
-                <p>&copy; 2025 BharatOne Spaces. All rights reserved.</p>
+                <p>&copy; 2026 BharatOne Spaces. All rights reserved.</p>
             </div>
         </div>
     </footer>
 
     <!-- Floating WhatsApp Button -->
-    <a href="https://wa.me/918899661111?text=Hi%2C%20I%27m%20interested%20in%20Box%20Office%20Jasai.%20Please%20share%20more%20details."
+    <a href="https://wa.me/918899661111?text=Hi%2C%20I%27m%20interested%20in%20Box%20Office%20Jasai%20near%20Navi%20Mumbai%20Airport.%20Please%20share%20details."
         class="whatsapp-float pulse" target="_blank" aria-label="Chat on WhatsApp">
         💬
     </a>
